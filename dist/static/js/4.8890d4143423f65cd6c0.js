@@ -1,2 +1,0 @@
-webpackJsonp([4],{LRZh:function(e,t){},ePsb:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    Chat\n")])},staticRenderFns:[]};var r=n("VU/8")({name:"Chat",data:function(){return{}}},a,!1,function(e){n("LRZh")},"data-v-3e68a836",null);t.default=r.exports}});
-//# sourceMappingURL=4.8890d4143423f65cd6c0.js.map
