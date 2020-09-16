@@ -1,0 +1,2 @@
+webpackJsonp([2],{DKpU:function(e,t){},FJ6v:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    CustomerService\n")])},staticRenderFns:[]};var a=n("VU/8")({name:"CustomerService",data:function(){return{}}},r,!1,function(e){n("DKpU")},"data-v-5cae32e2",null);t.default=a.exports}});
+//# sourceMappingURL=2.bedbef040611a46618d8.js.map

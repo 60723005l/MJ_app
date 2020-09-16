@@ -1,0 +1,2 @@
+webpackJsonp([1],{Hp7F:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    Favourite\n")])},staticRenderFns:[]};var i=n("VU/8")({name:"Favourite",data:function(){return{}}},r,!1,function(e){n("sivY")},"data-v-7690bb70",null);t.default=i.exports},sivY:function(e,t){}});
+//# sourceMappingURL=1.8e8dad52b90f4b7272db.js.map
