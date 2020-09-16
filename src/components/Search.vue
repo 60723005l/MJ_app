@@ -34,7 +34,7 @@
 </template>
 
 <script>
-
+import SearchRoom from '@/components/SearchRoom'
 
 export default {
     name: 'Search',
@@ -85,7 +85,7 @@ export default {
     },
     components:
     {
-        SearchRoom: () => import('@/components/SearchRoom')
+        SearchRoom
     }
 
 }
